@@ -1,3 +1,8 @@
+# Transaction tracker
+Group exam project for the DAT320 Web Programming course
+
+Grade: `A`
+
 # Project Setup Guide
 
 ## Production

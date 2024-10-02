@@ -2,6 +2,9 @@
 Group exam project for the DAT320 Web Programming course
 
 Grade: `A`
+<div align="center">
+	<img src="https://i.imgur.com/Cz8KUVX.png">
+</div>
 
 # Project Setup Guide
 
